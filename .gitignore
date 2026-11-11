@@ -1,0 +1,12 @@
+# Publish only the model; the video project, audio and notes stay local.
+/*
+!/winter.py
+!/sensitivity.py
+!/README.md
+!/LICENSE
+!/requirements.txt
+!/.gitignore
+!/data/
+/data/*
+!/data/ep01_results.json
+!/data/ep01_sensitivity.json
